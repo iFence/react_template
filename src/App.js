@@ -1,4 +1,4 @@
-import './App.css';
+import './App.less';
 import React from "react";
 import {Button} from 'antd';
 
